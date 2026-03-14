@@ -50,8 +50,8 @@ const App = () => {
   };
 
   const techSkills = {
-    languages: ['JavaScript', 'HTML5', 'CSS3', 'Python', 'PHP'],
-    frameworks: ['React', 'Firebase', 'Node.js'],
+    languages: ['Java', 'HTML5', 'CSS3',, 'PHP'],
+    frameworks: ['React',, 'Node.js'],
     tools: ['Git', 'XAMPP', 'MySQL', 'VS Code'],
   };
 
@@ -69,7 +69,7 @@ const App = () => {
       description:
         'Created a task management tool with drag-and-drop support, allowing users to track daily progress and team collaboration.',
       features: ['Task Categories', 'Drag-and-Drop', 'Realtime Updates'],
-      tech: ['React', 'Firebase', 'Material UI'],
+      tech: ['React', 'Python'],
       link: '#',
     },
     {
